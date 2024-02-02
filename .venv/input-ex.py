@@ -1,2 +1,3 @@
 name= input("What is your name? ")
-Karl
+age= input)"How old are you? "
+print("Hello, ", name, "!", sep="")
